@@ -29,4 +29,4 @@ Insgesamt -> 20 Stunden
 
 
 
-github repo: 
+github repo: https://github.com/DrianH/MTCG
